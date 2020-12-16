@@ -10,11 +10,14 @@ const MapStyle = styled.div`
     align-items: center;
     height: 80vh;
   }
-  .a {
+  .province {
     transition: fill 0.3s linear;
     &:hover {
       fill: ${backgroundColors.white};
       cursor: pointer;
+    }
+    &.title {
+      fill: red;
     }
   }
   h2 {
