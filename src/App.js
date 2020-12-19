@@ -4,7 +4,6 @@ import "./index.css";
 function App() {
   return (
     <div className="App">
-      <h1>Mapa</h1>
       <Map />
     </div>
   );
