@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { backgroundColors, breakpoints } from "../../helperStyle";
+import { backgroundColors } from "../../helperStyle";
 
 const MapStyle = styled.div`
   background-color: ${backgroundColors.grey};

@@ -2,7 +2,6 @@ export const backgroundColors = {
   grey: "#f1f3f7",
   white: "#fff",
 };
-
 export const breakpointsAsNumber = {
   mobileSmall: 320,
   mobileBig: 640,

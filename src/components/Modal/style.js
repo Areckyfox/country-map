@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { backgroundColors, breakpoints } from "../../helperStyle";
+import { breakpoints } from "../../helperStyle";
 
 const ModalStyle = styled.div`
   position: relative;
