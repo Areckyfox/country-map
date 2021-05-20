@@ -1,5 +1,7 @@
 # Project RWD
 # Workinkg fine in IE11 and SAFARI
+# GitHub Pages Production link:
+https://areckyfox.github.io/country-map/
 
 # Getting Started with Create React App
 
